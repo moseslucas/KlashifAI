@@ -1,0 +1,3 @@
+rootProject.name = 'KlashifAI'
+
+include ':app'
